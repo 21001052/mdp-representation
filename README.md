@@ -37,7 +37,7 @@ Moving Right
 
 2.0 - Otherwise
 ### Graphical Representation
-![RL_page-0001](https://github.com/Dhanudhanaraj/mdp-representation/assets/119218812/c9c5fc75-92d5-4db0-a372-212edbb438c1)
+![WhatsApp Image 2024-02-21 at 12 22 48 PM](https://github.com/21001052/mdp-representation/assets/94957766/5bdb1b71-19d3-4c50-89f2-c258cf4ea266)
 
 ## PYTHON REPRESENTATION:
 ```
