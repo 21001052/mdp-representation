@@ -41,8 +41,7 @@ Moving Right
 
 ## PYTHON REPRESENTATION:
 ```
-# Developed by: DHANUMALYA D
-# Register Number: 212222230030
+
 
 P = {
     0:{
